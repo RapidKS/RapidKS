@@ -7,7 +7,7 @@
 
 - Description - As a skilled Full Stack Developer and IT Engineer, I possess a comprehensive understanding of both front-end and back-end technologies, enabling me to create innovative and user-friendly web applications. With a strong proficiency in programming languages, frameworks, and databases, I am adept at designing and implementing robust solutions that meet the unique requirements of diverse projects. Leveraging my expertise in software development, system administration, and networking, I consistently deliver scalable and efficient solutions while ensuring optimal performance, security, and reliability. With a passion for staying up-to-date with the latest industry trends, I am committed to driving technological advancements and contributing to the success of organizations through my technical prowess and problem-solving abilities.
 
-- 👨‍💻 Portfolio - [https://rapidks.github.io/](https://rapidks.github.io/)
+- 👨‍💻 Portfolio link - [https://rapidks.github.io/](https://rapidks.github.io/)
 
 - 📫 How to reach me **sharma.kaus120375@gmail.com**
 
