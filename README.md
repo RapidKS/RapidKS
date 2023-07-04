@@ -9,7 +9,7 @@
 
 - 👨‍💻 Portfolio link - [https://rapidks.github.io/](https://rapidks.github.io/)
 
-- 📫 How to reach me **sharma.kaus120375@gmail.com**
+- 📫 How to reach me **sharma.kaush120375@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
